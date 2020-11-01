@@ -66,7 +66,7 @@
       <AssemblyReference>System.ServiceModel</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="OpenBrowser" sap:VirtualizedContainerService.HintSize="602,831" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="I'm opening web page rpa.hybrydoweit.pl" sap:VirtualizedContainerService.HintSize="602,831" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
